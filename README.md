@@ -6,6 +6,7 @@
 
 * [HDCapes.de](https://github.com/TryAnixx/HDCapes): HDCapes
 * [timolia-labymod-addon-inoffical](https://github.com/l3nnartt/timolia-addon): Labymod Addon for Timolia.de
+* [BetterZoom](https://github.com/TryAnixx/BetterZoom): Labymod Addon
 
 ## Languages and Tools:
 
