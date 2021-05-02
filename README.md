@@ -5,13 +5,14 @@
 ## Projects
 
 * [HDCapes.de](https://github.com/TryAnixx/HDCapes): HDCapes
-* [timolia-labymod-addon-inoffical](https://github.com/l3nnartt/timolia-addon): Labymod Addon for Timolia.de
+* [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): Labymod Addon for Timolia.de
 * [BetterZoom](https://github.com/TryAnixx/BetterZoom): Labymod Addon
 
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Intellij-Idea" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
+<img align="left" alt="LabyMod" width="26px" src="https://user-images.githubusercontent.com/15173170/51895430-6193cf00-23aa-11e9-9ca5-eecb7904fb41.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
