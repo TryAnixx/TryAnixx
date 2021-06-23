@@ -20,7 +20,7 @@
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" />
+<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Logo_MySQL.svg/2000px-Logo_MySQL.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
@@ -28,5 +28,5 @@
 
 ## Github Stats:
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TryAnixx&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TryAnixx&show_icons=true&hide_border=true&theme=dark" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryAnixx&layout=compact&theme=dark&hide_border=true" />
