@@ -7,6 +7,7 @@
 * [HDCapes.de](https://github.com/TryAnixx/HDCapes): HDCapes | LabyMod Addon
 * [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): Timolia.de | LabyMod Addon
 * [BetterZoom](https://github.com/TryAnixx/BetterZoom), [BetterZoom-1.12](https://github.com/TryAnixx/BetterZoom-1.12): Better Zoom | LabyMod Addon
+* [LabyTikTok](https://github.com/TryAnixx/LabyTikTok): LabyTikTok | LabyMod Addon
 
 ## Languages and Tools:
 
