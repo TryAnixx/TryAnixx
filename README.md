@@ -4,9 +4,9 @@
 
 ## Projects
 
-* [HDCapes.de](https://github.com/TryAnixx/HDCapes): HDCapes
-* [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): Labymod Addon for Timolia.de
-* [BetterZoom](https://github.com/TryAnixx/BetterZoom), [BetterZoom-1.12](https://github.com/TryAnixx/BetterZoom-1.12): Labymod Addon
+* [HDCapes.de](https://github.com/TryAnixx/HDCapes): HDCapes | LabyMod Addon
+* [timolia-addon-1.8](https://github.com/l3nnartt/timolia-addon-1.8), [timolia-addon-1.12](https://github.com/l3nnartt/timolia-addon-1.12), [timolia-addon-1.16](https://github.com/l3nnartt/timolia-addon-1.16): Timolia.de | LabyMod Addon
+* [BetterZoom](https://github.com/TryAnixx/BetterZoom), [BetterZoom-1.12](https://github.com/TryAnixx/BetterZoom-1.12): Better Zoom | LabyMod Addon
 
 ## Languages and Tools:
 
@@ -28,5 +28,5 @@
 
 ## Github Stats:
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TryAnixx&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TryAnixx&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryAnixx&layout=compact&theme=dark&hide_border=true" />
