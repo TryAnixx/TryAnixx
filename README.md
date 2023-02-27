@@ -30,4 +30,4 @@
 ## Github Stats:
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TryAnixx&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryAnixx&layout=compact&theme=dark&hide_border=true" />
+<img align="center" alt="Top Langs" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TryAnixx&layout=compact&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=TryAnixx&layout=compact)" />
